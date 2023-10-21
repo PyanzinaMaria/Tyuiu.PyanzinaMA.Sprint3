@@ -30,7 +30,7 @@ namespace Tyuiu.PyanzinaMA.Sprint3.Task0.V15
 
             double t = 0.7;
             int startValue = 1;
-            int stopValue = 10;
+            int stopValue = 10; 
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");

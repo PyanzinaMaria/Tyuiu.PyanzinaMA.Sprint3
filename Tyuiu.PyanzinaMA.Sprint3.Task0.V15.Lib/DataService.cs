@@ -17,7 +17,7 @@ namespace Tyuiu.PyanzinaMA.Sprint3.Task0.V15.Lib
             {
                 sumSeries = sumSeries + (((Math.Pow(value, i)) + (2 / (i + 1))) * Math.Sin(value));
             }
-            return Math.Round(sumSeries, 3);
+            return Math.Round(sumSeries, 3); 
         }
     }
 }
