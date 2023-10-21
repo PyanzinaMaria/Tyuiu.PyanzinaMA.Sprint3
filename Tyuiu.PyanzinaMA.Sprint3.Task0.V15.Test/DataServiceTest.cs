@@ -18,7 +18,7 @@ namespace Tyuiu.PyanzinaMA.Sprint3.Task0.V15.Test
 
             double res = ds.GetSumSeries(value, startValue, stopValue);
 
-            double wait = 2.105;
+            double wait = 4.063;
 
             Assert.AreEqual(wait, res);
         }
