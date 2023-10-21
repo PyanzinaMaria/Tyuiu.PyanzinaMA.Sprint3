@@ -11,7 +11,13 @@ namespace Tyuiu.PyanzinaMA.Sprint3.Task1.V1.Lib
     {
         public double GetMultiplySeries(int startValue, int stopValue)
         {
-            
+            double multSeries = 1;
+            while (startValue <= stopValue)
+            {
+                multSeries = multSeries * (Math.Pow((3.0 / startValue), -2.0));
+                startValue++;
+            }
+            return Math.Round(multSeries, 3);
         }
     }
 }
