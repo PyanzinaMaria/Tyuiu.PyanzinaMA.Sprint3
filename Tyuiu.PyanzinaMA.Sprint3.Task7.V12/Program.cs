@@ -15,7 +15,7 @@ namespace Tyuiu.PyanzinaMA.Sprint3.Task7.V12
             Console.Title = "Спринт #3 | Выполнила: Пьянзина М. А. | ИИПб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Обработка целочисленной информации                                *");
+            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                 *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #12                                                             *");
             Console.WriteLine("* Выполнила: Пьянзина Мария Алексеевна | ИИПб-23-1                        *");
